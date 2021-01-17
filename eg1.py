@@ -24,4 +24,3 @@ for i in range(t):
                 if k<min:
                     print "Comparing ",a[i],'and ',a[j],' value = ',k
                     min=k
-    print(min)
